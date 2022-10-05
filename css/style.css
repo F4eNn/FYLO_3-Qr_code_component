@@ -24,7 +24,7 @@ html {
 	margin: 2em;
 	padding: 2em;
 	border-radius: 20px;
-	box-shadow: 5px 5px 30px 20px rgba(0,0,0,.11);
+	box-shadow: 5px 5px 30px 5px rgba(0, 0, 0, 0.11);
 }
 .container-content {
 	text-align: center;
